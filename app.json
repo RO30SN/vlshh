@@ -1,0 +1,16 @@
+{
+  "name": "vlshh",
+  "description": "Deploy vless on Heroku.",
+  "keywords": [
+    "vless"
+  ],
+  "env": {
+    "UUID": {
+      "description": "VLESS UUID",
+      "value": "5d7092ef-41d1-429b-b93b-5c0ff6c91031"
+    }
+  },
+  "website": "https://github.com/RO30SN",
+  "repository": "https://github.com/RO30SN/vlshh",
+  "stack": "container"
+}
